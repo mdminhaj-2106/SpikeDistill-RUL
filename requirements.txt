@@ -1,0 +1,9 @@
+# Exact versions this project was run with (Python 3.11.16, Darwin arm64)
+# Hardware: Apple M4, 10 cores, 16 GB, PyTorch MPS backend for conv/attention/scan models
+torch==2.15.0
+numpy==2.4.6
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.17.1
+matplotlib==3.11.2
+pytest==9.2.0
